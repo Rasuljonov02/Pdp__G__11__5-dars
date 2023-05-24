@@ -1,0 +1,160 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.contaner-tepa {
+  display: flex;
+  gap: 9rem;
+  position: relative;
+  top: 30px;
+}
+.qizil {
+  position: relative;
+  right: 40px;
+  bottom: 3px;
+}
+.kok {
+  position: relative;
+  right: 120px;
+  color: rgb(128, 0, 255);
+  bottom: 3px;
+  right: 185px;
+}
+p {
+  font-size: 25px;
+}
+.KATAK {
+  width: 30px;
+  height: 30px;
+  background-color: rgb(126, 10, 204);
+  position: relative;
+  left: 100px;
+}
+a {
+  text-decoration: none;
+}
+.link {
+  background-color: blueviolet;
+  padding: 5px 20px;
+  color: aliceblue;
+  position: relative;
+  bottom: 5px;
+}
+.ortachap {
+  position: absolute;
+  top: 150px;
+  left: 100px;
+  display: inline-block;
+}
+.chiziq {
+  width: 355px;
+  height: 344px;
+  border: 1px dashed #7368fe;
+  position: relative;
+  bottom: 250px;
+  left: 700px;
+}
+.oila {
+  width: 350px;
+  height: 350px;
+  position: relative;
+  bottom: 634px;
+  left: 728px;
+}
+
+button {
+  position: relative;
+  top: 20px;
+  padding: 8px 20px;
+  background-color: #4738e4;
+  border: 1px solid wheat;
+  color: aliceblue;
+}
+.play {
+  width: 60px;
+  position: relative;
+  bottom: 784px;
+  left: 518px;
+}
+.food {
+  width: 100%;
+  height: 200px;
+  background-color: rgb(20, 11, 29);
+  position: absolute;
+  top: 900px;
+}
+
+.pasfuter {
+  width: 30px;
+  height: 30px;
+  background-color: #4738e4;
+  position: absolute;
+  top: 138px;
+  left: 155px;
+}
+.cond {
+  position: absolute;
+  top: 145px;
+  left: 189px;
+}
+h5 {
+  color: wheat;
+
+  position: absolute;
+  top: 150px;
+
+  left: 910px;
+}
+
+.ortadiv {
+  position: absolute;
+  width: 1570px;
+  height: 700px;
+  left: -230px;
+  top: 400px;
+  margin-top: 100px;
+}
+
+table {
+  position: relative;
+  z-index: 2;
+  left: 57%;
+  top: 350px;
+  transform: translate(-50%, -50%);
+  width: 65%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  overflow: hidden;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.3);
+  height: 350px;
+  background: #f8f8fc;
+}
+th,
+td {
+  padding: 12px 15px;
+}
+
+th {
+  background-color: rgb(175, 175, 175) #7c4dff;
+  color: #000000;
+  text-transform: uppercase;
+}
+.fesbook {
+  background-color: #4738e4;
+  padding: 5px 10px;
+  border-radius: 3px;
+}
+.tvitr {
+  background-color: #4b495c;
+  padding: 7px 10px;
+  border-radius: 3px;
+  position: absolute;
+  left: 660px;
+}
+.linkidin {
+  background-color: #4b495c;
+  padding: 7px 10px;
+  border-radius: 3px;
+  position: absolute;
+  left: 700px;
+}
